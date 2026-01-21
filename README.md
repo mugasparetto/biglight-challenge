@@ -1,10 +1,6 @@
-import { Meta } from "@storybook/addon-docs/blocks";
+# Biglight Challenge Introduction
 
-<Meta title="Biglight Challenge" />
-
-    # Biglight Challenge Introduction
-
-    ## Deployed Storybook
+## Deployed Storybook
 
 [Access the deployed Storybook](https://biglight-challenge.vercel.app/)
 
@@ -134,10 +130,10 @@ Tailwind + Components (Vite / Storybook)
   - Shared font roles
   - Brand-specific font families and weights
 
-- **Mapped/Brand**
+- **Mapped/<Brand>**
   Brand semantic mappings (e.g., `primary`, `accent`)
 
-- **Alias colours/Brand**
+- **Alias colours/<Brand>**
   Brand color aliases
 
 ### Key principles
